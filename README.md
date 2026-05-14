@@ -2,6 +2,12 @@
 
 A modern, fully-featured web calculator built with vanilla HTML, CSS, and JavaScript. No dependencies, no frameworks, no `eval()`.
 
+<p align="center">
+  <img src="screenshot.png" alt="Calculator Preview" width="400">
+  <br>
+  <em>Add a screenshot of the calculator here — rename your image to <code>screenshot.png</code> and place it in the repo root.</em>
+</p>
+
 ## Features
 
 - **Safe Math Engine** – Proper arithmetic without `eval()`
